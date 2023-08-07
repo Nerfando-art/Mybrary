@@ -19,11 +19,12 @@
     "filepond-plugin-image-preview": "^4.6.11",
     "git": "^0.1.5",
     "init": "^0.1.2",
+    "method-override": "^3.0.0",
     "mongodb": "^4.13.0",
     "mongoose": "^6.8.1"
   },
   "devDependencies": {
     "dotenv": "^16.0.3",
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.0.1"
   }
 }
